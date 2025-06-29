@@ -1,2 +1,11 @@
-Item,Quantity,Cost,Purpose,Link
-NFC Stickers,1x10,4.99 USD,For the NFC functionality of the keychain,https://www.amazon.com/Origin-Joy-NTAG215-Labeling-Compatible-NFC-Enabled/dp/B09SZHKXJZ/ref=sr_1_8?refresh=1&sr=8-8
+Item,Quantity,Cost,Purpose,Link,,,,
+NFC Stickers,1x10,4.99 USD,For the NFC functionality of the keychain,https://www.amazon.com/Origin-Joy-NTAG215-Labeling-Compatible-NFC-Enabled/dp/B09SZHKXJZ/ref=sr_1_8?refresh=1&sr=8-8,,,,
+PCB,1x5,35.18USD,,,,,,
+,,,,,,,,
+PCB Parts,,,,,,,,
+Name,,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price
+,,,,,,,,
+220nF,,C0603,5,CL10B224KA8NNNC,SAMSUNG(??),LCSC,C21120,0.006
+0805G (Green),,LED0805-R-RD,5,KT-0805G,KENTO,LCSC,C2297,0.011
+47?,,R0603,5,0603WAF470JT5E,UNI-ROYAL(??),LCSC,C23182,0.001
+NT3H2111W0FHKH,,XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH,5,NT3H2111W0FHKH,NXP(???),LCSC,C710403,0.882

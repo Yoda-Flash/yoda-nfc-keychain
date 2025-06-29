@@ -5,7 +5,7 @@ description: "A Yoda-shaped NFC Keychain for me to hang and use"
 created_at: "2025-06-18"
 ---
 
-Total hours: 4.5 
+Total hours: 6.25 hr 
 
 # June 18th: Worked on Design
 - Came up with two variations of the design:
@@ -46,3 +46,19 @@ Total hours: 4.5
 - Realized doing an extrude made the most sense - got that done
 
 **Total time spent: 0.5hr**
+
+# June 26th: Found parts on EasyEDA
+- Added all the parts to my schematic on Easy EDA
+
+**Total time spent: 0.25hr**
+
+# June 28th: Finished PCB
+- Finished schematic
+- Got an appropriate Yoda dxf, sized and exported from Onshape
+- Formatted and routed PCB
+- Tried out different designs and finishes
+![alt text](assets/green-gold.png.png)
+![](assets/black-gold.jpg)
+- Checked price on PCBWay and JLCPCB - with PCBA, it becomes >50 dollars so I cannot afford it with the easy project tier money
+
+**Total time spent: 1.5hr**
