@@ -6,6 +6,8 @@ This project was inspired by Hack Club's Asylum YSWS, where one of the challenge
 
 ## Final Design
 ![alt text](assets/black-gold.jpg)
+![alt text](assets/pcb-back.png)
+* The PCB will be black, but for visual clarity purposes the back of it is in blue
 
 ## Bill of Materials
 | Item | Quantity | Cost | Purpose | Link |
